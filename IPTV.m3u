@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/DW_Logo_2012.svg",DW News
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/France24.png",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/TRT_World_logo.svg",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg",NASA TV
+https://ntv1.livecdn.su/Content/HLS/Live/Channel(NasaTV)/index.m3u8
